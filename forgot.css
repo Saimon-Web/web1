@@ -1,0 +1,131 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.section1{
+    background:#1c48a8;
+    height: 50px;
+    padding: 25px 50px;
+    
+
+}
+.one{
+    float: left;
+    color: white;
+    padding: 12px 120px;
+  
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  
+    }
+.form{
+    padding-left: 55%;
+}
+.two{
+    float: left;
+    
+    
+    margin-right: 8px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.three{
+    float:left;
+   
+    margin-right: 8px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.three a{
+    
+    color: #98a4df;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    fontZZ
+}
+.three a:hover{
+    border-bottom: 1px solid #98a4df;
+}
+.four{
+    float: left;
+    margin-top: 20px;
+    
+    
+}
+.button{
+    border-radius: 2px;
+    background: linear-gradient( #4256b9, #3a55d8);
+    border: 1px solid #586edf;
+    width: 60px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 20px;
+    font-size: 15px;
+    
+}
+.button:hover{
+    background: linear-gradient( #586edf, #3749a3);
+    cursor: pointer;
+}
+input{
+    height:20px;
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+.section2{
+    background: #E9EBEE;
+    height: 300px;
+    padding-top: 50px;
+    
+  
+   
+}
+.first{
+    background: rgb(255, 255, 255);
+    box-shadow: 0px 0px 2px black;
+    width: 40%;
+    height: 180px;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    
+}
+.first h5{
+    padding: 15px 15px;
+    font-size: 17px;
+   
+}
+.line{
+    border-bottom: 1px solid rgb(218, 206, 206);
+    margin: 8px 15px;
+}
+.first p{
+    padding: 15px 15px;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.number{
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+.five{
+    width: 60px;
+    border-radius: 2px;
+    background: #365899;
+    border: 1px solid #365899;
+    color: white;
+    margin-left: 80%;
+
+}
+.five:hover{
+    background: rgb(27, 4, 233);
+}
+.search{
+    
+    width:100%;
+    height: 37px;
+    background: #F2F2F2;
+    box-shadow: 0px 0px 2px black;
+}

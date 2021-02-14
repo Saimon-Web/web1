@@ -1,0 +1,80 @@
+
+.first{
+    background: rgb(207, 202, 205);
+    width: 100%;
+    height: auto;
+    
+}
+
+
+.one{
+    background: #FFFFFF;
+    border: 1px solid rgb(228, 220, 220);
+    width: 28%;
+    height:320px;
+    float: right;
+    margin-top: 150px;
+    margin-right: 200px;
+    border-radius: 7px;
+    padding-top: 10px;
+    padding-bottom: 35px;
+    box-shadow: 0px 0px 5px black;
+}
+input{
+    padding: 17px 8px;
+    width: 90%;
+    border-radius: 7px;
+    margin-top: 10px;
+    background: #E8F0FE;
+    margin-left: 10px;
+    border: 1px solid rgb(228, 220, 220);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.button{
+   width: 95%;
+   background: #1371ec;
+   font-size: 25px;
+   padding: 10px 8px;
+   color: white;
+   font-family: arial;
+}
+.button:hover{
+    background:  #1b79f5;
+    cursor:pointer;
+}
+.link {
+    text-decoration: none;
+    margin-left: 130px;
+   display: inline-block;
+   
+}
+a.link :hover{
+    border-bottom: 1px solid gray;
+
+}
+.line{
+    border-bottom: 0.5px solid rgb(218, 206, 206);
+    margin: 8px 15px;
+}
+.three{
+    width: 220px;
+    background: linear-gradient(#52b634,#54c428);
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    margin-left:110px ;
+}
+.three:hover{
+    background: linear-gradient(#50aa35,#52b62b);
+    cursor: pointer;
+}
+.FOUR {
+    margin-top: 80PX;
+    
+}
+.FOUR a{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    font-size: 20px;
+}
